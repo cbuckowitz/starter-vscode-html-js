@@ -1,2 +1,2 @@
-# project-starter
-Project starter templates
+# Starter template for VSCode html .js projects
+
