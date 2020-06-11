@@ -1,0 +1,14 @@
+{
+  "name": "starter-vscode-html-js",
+  "author": "Christian Buckowitz <cbuckowitz@gmail.com>",
+  "version": "1.0.0",
+  "description": "Starter template for HTML/JS with node on VSCode Remote Container",
+  "homepage": "https://github.com/cbuckowitz/starter-vscode-html-js",
+  "license": "MIT",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=8082"
+  },
+  "devDependencies": {}
+}
